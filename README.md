@@ -1,11 +1,11 @@
-# 🚀Perpustakan
+# 🎉Perpustakan
 
 >Aplikasi berbasis web yang berguna sebagai aplikasi **Perpustakaan** yang digunakan untuk membantu mengatur buku dan stok 
 
 ---
 
 ## 📌 Daftar Isi
-- [🚀Perpustakan](#perpustakan)
+- [🎉Perpustakan](#perpustakan)
   - [📌 Daftar Isi](#-daftar-isi)
   - [✨ Fitur Utama](#-fitur-utama)
   - [🛠 Teknologi](#-teknologi)
