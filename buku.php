@@ -15,7 +15,7 @@ $books = $koneksi -> query($sql)->fetch_all(MYSQLI_ASSOC);
 <body>
     <h1>Data Buku</h1>
     <a href="tambah-buku.php">Tambah</a>
-    <a href="data.php">kembali</a>
+    <a href="dashboard.php">kembali</a>
     <table>
         <thead>
             <th>No</th>

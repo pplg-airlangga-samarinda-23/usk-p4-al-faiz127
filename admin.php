@@ -52,7 +52,7 @@ $no =0 ;
     </div>
     <div class="manage-actions">
         <a href="tambah-user.php" class="btn-back">tambah</a>
-        <a href="data.php" class="btn-back">kembali</a>
+        <a href="dashboard.php" class="btn-back">kembali</a>
     </div>
     </div>
 </body>
