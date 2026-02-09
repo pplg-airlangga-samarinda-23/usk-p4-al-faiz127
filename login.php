@@ -19,7 +19,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $_SESSION['role'] = $row['role'];
 
         if ($row['role'] === 'admin') {
-            header("Location: admin.php");
+            header("Location: dashboard.php");
         } elseif ($row['role'] === 'petugas') {
             header("Location: petugas.php");
         } else {
@@ -46,6 +46,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <input type="text" name="username" placeholder="Username" required><br><br>
     <input type="password" name="password" placeholder="Password" required><br><br>
     <button type="submit">Login</button>
+    <a href="index.php">kembali</a>
 </form>
 
 </body>
